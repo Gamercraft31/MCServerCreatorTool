@@ -1,6 +1,7 @@
 @echo off
 title MCServerCreatorTool
 setlocal enabledelayedexpansion
+echo Welcome on MCServerCreatorTool, please do not copy
 :main_menu
 echo Choose a server type:
 echo 1. Paper
