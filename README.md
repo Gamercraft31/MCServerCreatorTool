@@ -1,5 +1,5 @@
 # MCServerCreatorTool
-This tool can create a server more fast (coding assisted by ChatGPT)
+This tool can create a server more fast
 
 Latest version: MCServerCreator-V4
 
